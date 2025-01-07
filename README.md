@@ -7,7 +7,7 @@ Tags:
   - Matrix
 ---
 
-# 🚀 _Day 3. Search in a Row-Column Sorted Matrix_ 🧠
+# 🚀 _Day 38. Search in a Row-Column Sorted Matrix_ 🧠
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix17201720)
 
